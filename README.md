@@ -1,27 +1,24 @@
 # Fall2023_final_project
 
-Simple overview of use/purpose.
+A simple top down shooter game. Not made for replayability or complexity
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A simple top down shooter game where you are meant to try to survive, and attack mobs that spawn. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Requires pygame and python to run. 
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Download directly from Github repository. @Goodman_Will_Final2023
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+simply download all files and run game in VScode or python. 
 ```
 code blocks for commands
 ```
