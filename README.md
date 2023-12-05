@@ -10,7 +10,7 @@ A simple top down shooter game where you are meant to try to survive, and attack
 
 ### Dependencies
 
-Requires pygame and python to run. 
+Requires pygame and python to run. Tested on Windows 11
 
 ### Installing
 
@@ -18,30 +18,20 @@ Download directly from Github repository. @Goodman_Will_Final2023
 
 ### Executing program
 
-simply download all files and run game in VScode or python. 
-```
-code blocks for commands
-```
+Download program and make sure you have pygame and python installed. Requries Python 3.11.4
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If it's broken that lowkey sucks but idk
 
 ## Authors
 
-Contributors names and contact info
+Will Goodman @ https://github.com/TherealWillG 
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+
 * 0.1
     * Initial Release
 
