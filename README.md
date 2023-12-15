@@ -4,7 +4,7 @@ A simple top down shooter game. Not made for replayability or complexity
 
 ## Description
 
-A simple top down shooter game where you are meant to try to survive, and attack mobs that spawn. 
+A simple top down shooter game where you are meant to try to survive, and attack mobs that spawn. Currently very incomplete and only features mob movement
 
 ## Getting Started
 
