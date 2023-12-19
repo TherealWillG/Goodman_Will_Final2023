@@ -11,6 +11,13 @@ A simple top down shooter game where you are meant to try to survive, and attack
 ### Dependencies
 
 Requires pygame and python to run. Tested on Windows 11
+*** Please note, I was unable to make the images load in os and specify file paths, in order for this code to work, you have to download the folder named "Code Final." 
+*** When attempting to run code, the folder named "Code Final" is the ONLY folder that can be opened. If the folder called "Code Final" is not the only folder open, and is within another folder, the code will not run as the images will not load
+****** The VScode Tab should look like this:
+![image](https://github.com/TherealWillG/Goodman_Will_Final2023/assets/142452378/b7f04033-c8b4-45c8-b24b-29c7f612bc3b)
+****** I apologize for being unable to specify file paths.
+
+
 
 ### Installing
 
@@ -22,7 +29,7 @@ Download program and make sure you have pygame and python installed. Requries Py
 
 ## Help
 
-If it's broken that lowkey sucks but idk
+If specified download doesn't happen the code will not run
 
 ## Authors
 
